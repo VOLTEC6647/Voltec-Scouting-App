@@ -1,10 +1,9 @@
 # Scouting-App
 Team #6647's official app for team and robot scouting during competitions
 
-## To do (For now)
-* [ ] Create settings tab
-* [ ] Set up database 
-* [ ] Create database connection
+# Updates
+
+This app is now deprecated, a new and updated system is in the works
 
 ## Authors
 
